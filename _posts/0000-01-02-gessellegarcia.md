@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I walked 10k steps today! :sleepy:
 Use the left arrow to go back!
